@@ -1,0 +1,23 @@
+{
+    "editor.fontSize": 18,
+    "editor.renderWhitespace": "all",
+    "workbench.iconTheme": "eq-material-theme-icons-darker",
+    "workbench.colorTheme": "SynthWave '84",
+    "editor.fontFamily": "UbuntuMono Nerd Font, Monaco, Menlo, 'Courier New', monospace",
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontFamily": "Menlo",
+    "search.exclude": {
+        "**/node_modules": true,
+        "**/bower_components": true,
+        "**/*.code-search": true,
+        "**/.git": true,
+        "**/vendor": true
+    },
+    "tws.highlightTrailingWhiteSpace": true,
+    "[javascript]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "SimonSiefke.prettier-vscode"
+    }
+}
